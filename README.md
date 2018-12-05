@@ -12,11 +12,11 @@ We used pandas for data visualization and to filter the data. We used numpy and 
 
 Plots (see details of the code in the .py files):
 The inputs of the plot functions are filtered data using pandas.
-
+- Bar plot indicate the data count number of gas across 50 states
 - Bar plot with top 10 states with highest AQI from 2011 to 2015
 - Pie charts comparing EPA categories in California and USA
 - Bar plot of the number of annual measurements per State
 - EPA categories of air quality measurements per year
 - Stack bar plot of EPA categories per year in California, top polluted cities in California, San Diego, Los Angeles and Fresno
 - Annual average of pollutants AQI over time in San Diego, Los Angeles, Fresno and Long Beach (For O3, NO2, SO2 and CO)
-- Pie chart with the % of pollutants in US air 
+- Pie chart comparison between top 4 pollutant gas,O3, NO2, SO2 and CO, with the % of pollutants contain in US air 
